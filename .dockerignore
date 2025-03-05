@@ -1,6 +1,6 @@
 .git
 .next
-node_modules
+node_modules/*
 .turbo
 .cache
 npm-debug.log*
